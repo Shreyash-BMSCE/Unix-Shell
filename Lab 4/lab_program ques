@@ -1,0 +1,5 @@
+Program  to CHECK WHETHER THE NUMBER IS ZERO/ POSITIVE/ NEGATIVE using Test Operator
+
+Shell script to  find the BIGGEST OF THREE NUMBERS using test operator and logical and && operator.
+
+Write a shell Script to accept two command Line parameters  Using Positional  parameter technique display the file attributes of the parameters .Use appropriate if conditions in the program to chk the number of arguments 
