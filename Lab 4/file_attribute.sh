@@ -1,5 +1,5 @@
 
-if [ $# -eq 0];
+if [ $# -eq 0 ];
 then echo "No parameter inserted!!!"
 
 else 
