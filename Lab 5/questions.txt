@@ -1,7 +1,0 @@
-Shell script to find factorial of a number using while loop
-
-shell script to perform arithmetic operations on 2 numbers using case statement syntax 
-
-shell script to find the sum of even numbers upto N using loop condition 
-
-
